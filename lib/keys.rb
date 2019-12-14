@@ -1,5 +1,3 @@
-require 'pry'
-
 def get_the_keys(groceries)
  groceries = {
   dairy: ["milk", "yogurt", "cheese"],
